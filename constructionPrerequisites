@@ -3,10 +3,12 @@
 
 Design Prerequisites for the resume project
 ***Goal***
+
 The Goal of the project is to design a simple web version of my resume to show off basic HTML CSS and JavaScript knowledge
 With a goal in mind that the information should be easily readable
 
 ***Technology and Libraries ***
+
 This will be written HTML CSS3 and JavaScript
     The project will include JQuery
     The project will can include Bootstrap
